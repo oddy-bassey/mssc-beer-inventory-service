@@ -1,0 +1,9 @@
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInventoryBootstrap.java
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
+/home/revoltcode/IdeaProjects/mssc-beer-inventory-service-initial-project/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
